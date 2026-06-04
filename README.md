@@ -28,22 +28,6 @@
 
 <br/>
 
-## About
-
-> *"My interest is majorly around understanding the universe — from Quantum Physics to General Relativity."*
-
-<br/>
-
-I am a competitive programmer and developer exploring the intersection of algorithmic logic and cosmic mysteries. My work bridges the gap between raw scientific data and visual understanding, with a focus on building tools that help decode the universe.
-
-Currently leading the development of **Cosmic Lens**, a James Webb Space Telescope data analysis system. My interests span across Quantum Physics, Astrophysics, String Theory, Neuroscience, and Atomic Physics.
-
-<br/>
-
----
-
-<br/>
-
 ## Featured Work
 
 <br/>
