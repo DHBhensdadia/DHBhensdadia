@@ -150,10 +150,6 @@ Technologies I'm actively learning or plan to dive into next:
 ---
 
 <p align="center">
-  <img src="metrics/isocalendar.svg" alt="Isometric Commit Calendar" />
-</p>
-
-<p align="center">
   <img src="./profile-3d-contrib/profile-night-green.svg" alt="3D Contribution Graph" />
 </p>
 
