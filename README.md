@@ -64,7 +64,7 @@ Built during **DU Hacks 5.0** (36-hour national hackathon at DDU, Jan 2026) as *
 
 ### [Just Learning — CS Journey](https://github.com/DHBhensdadia/Just_learning)
 
-Documenting my journey through Computer Engineering — C++ implementations of data structures, algorithms, and coursework solutions.
+Documenting my journey through Computer Engineering — C++ implementations of core data structures (linked lists, trees, graphs), sorting & searching algorithms, OOP concepts, and semester coursework solutions.
 
 ---
 
