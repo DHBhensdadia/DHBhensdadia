@@ -15,7 +15,7 @@ jobs:
       - name: Generate trophy card
         uses: soulteary/github-profile-trophy-action@v1.0.0
         with:
-          options: 'username=DHBhensdadia&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&title=-Followers'
+          options: 'username=DHBhensdadia&theme=onedark&no-frame=true&no-bg=true&column=7&margin-w=15&title=Commits,Stars,Repositories,Experience,PullRequest,Reviews,Issues,MultipleLang,LongTimeUser'
           path: profile/trophy.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
