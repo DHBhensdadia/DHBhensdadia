@@ -139,12 +139,12 @@ Technologies I'm actively learning or plan to dive into next:
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=DHBhensdadia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1DA1F2&text_color=8B949E&icon_color=1DA1F2" height="180" alt="GitHub Stats" />
+  <img src="https://github-stats-extended.vercel.app/api?username=DHBhensdadia&show_icons=true&hide_border=true&bg_color=0D1117&title_color=1DA1F2&text_color=8B949E&icon_color=1DA1F2" height="180" alt="GitHub Stats" />
   <img src="https://streak-stats.demolab.com?user=DHBhensdadia&hide_border=true&background=0D1117&ring=1DA1F2&fire=1DA1F2&currStreakNum=E6EDF3&sideNums=E6EDF3&currStreakLabel=1DA1F2&sideLabels=8B949E&dates=8B949E" height="180" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DHBhensdadia&layout=compact&hide_border=true&bg_color=0D1117&title_color=1DA1F2&text_color=8B949E" height="180" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=DHBhensdadia&layout=compact&hide_border=true&bg_color=0D1117&title_color=1DA1F2&text_color=8B949E" height="180" alt="Top Languages" />
 </p>
 
 ---
